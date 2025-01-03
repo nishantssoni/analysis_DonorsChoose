@@ -1,3 +1,10 @@
+# datasets
+glove_vectors
+preprocessed_data.csv
+resources.csv
+train_data.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
